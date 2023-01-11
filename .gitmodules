@@ -1,0 +1,6 @@
+[submodule "crosvm"]
+	path = crosvm
+	url = git@github.com:vili-os/crosvm.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:vili-os/linux.git
